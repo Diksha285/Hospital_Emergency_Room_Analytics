@@ -1,8 +1,8 @@
-# 🏥 Hospital Emergency Room Dashboard
+# <h1 align="center">🏥 Hospital Emergency Room Dashboard
 
 An interactive **Hospital Emergency Room Dashboard** built using Microsoft Excel to analyze patient volume, waiting time, satisfaction level, admission status, demographics, and department referrals.
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Hospital Emergency Room Dashboard](Hospital_Emergency_Room_Dashboard.png)
 
@@ -28,14 +28,14 @@ The dashboard allows users to analyze the data by **year and month** and quickly
 
 The dashboard includes the following analysis:
 
-### 🏥 Patient Admission Status
+###  Patient Admission Status
 
 Shows the number and percentage of patients who were:
 
 - Admitted
 - Not Admitted
 
-### 👥 Patient Age Distribution
+###  Patient Age Distribution
 
 Patients are divided into different age groups:
 
@@ -47,21 +47,21 @@ Patients are divided into different age groups:
 - 60–69
 - 70–79
 
-### ⏱️ Patient Attendance
+###  Patient Attendance
 
 Patients are classified based on their waiting time:
 
 - **Within Time** – Waiting time less than 30 minutes
 - **Delay** – Waiting time of 30 minutes or more
 
-### 🚻 Gender Analysis
+###  Gender Analysis
 
 Shows the number of patients by:
 
 - Female
 - Male
 
-### 🏥 Department Referrals
+###  Department Referrals
 
 Shows the number of patients referred to different departments, including:
 
